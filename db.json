@@ -1,5 +1,5 @@
 {
    "task": 
-    {  "task": "someyaLista" ,"isCompleted":true}
+    {  "task": "someyaLista" ,"isCompleted":"true"}
 
 }
