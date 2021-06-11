@@ -1,11 +1,17 @@
 {
   "tasks": 
   [
-  { "task": "task 1", "isCompleted": false },
-  { "task": "task 3", "isCompleted": true },
-  {  "task": "task 3a", "isCompleted": true },
-  {  "task": "task 3b", "isCompleted": true },
-  {  "task": "task 3c", "isCompleted": true },
-  {  "task": "task 3d", "isCompleted": true },
+{
+"id": 1,
+"title": "Post 1"
+},
+{
+"id": 2,
+"title": "Post 2"
+},
+{
+"id": 3,
+"title": "Post 3"
+}
   ]
 }
