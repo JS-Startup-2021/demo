@@ -1,11 +1,11 @@
 {
   "tasks": 
   [
-  { "task": "task 1", "isCompleted": false }
+  { "task": "task 1", "isCompleted": false },
   { "task": "task 3", "isCompleted": true },
   {  "task": "task 3a", "isCompleted": true },
   {  "task": "task 3b", "isCompleted": true },
   {  "task": "task 3c", "isCompleted": true },
-  {  "task": "task 3d", "isCompleted": true }
+  {  "task": "task 3d", "isCompleted": true },
   ]
 }
