@@ -1,5 +1,5 @@
 {
-   "user": 
-    { "id": 1, "firstName": "someya" ,"lastName":"sayeh","password":"123","email":"someya@kth.se"}
+   "task": 
+    {  "task": "someyaLista" ,"isCompleted":true}
 
 }
