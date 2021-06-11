@@ -1,5 +1,6 @@
 {
-   "user": 
-    { "id":1, "task": "someyaLista" ,"isCompleted":"true"}
-
+   "user": [
+    { "id":1, "task": "someyaLista" ,"isCompleted":true},
+    { "id":2, "task": "someyaLeista" ,"isCompleted":false},
+]
 }
