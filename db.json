@@ -2,7 +2,7 @@
 {
   "user": [
     { "id": 1, "firstName": "someya" ,"lastName":"sayeh","password":"123","email":"someya@kth.se"},
-   { "id": 1, "firstName": "someya" ,"lastName":"sayeh","password":"123","email":"someya@kth.se"},
+   { "id": 2, "firstName": "someyda" ,"lastName":"saydeh","password":"12d3","email":"somdeya@kth.se"},
   
   ]
   
